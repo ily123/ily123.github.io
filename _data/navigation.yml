@@ -1,7 +1,11 @@
 main:
-  - title: "Home"
+  - title: "Projects/Home"
     url: /
-  - title: "Posts"
-    url: /posts/
+  - title: "Skills"
+    url: /skills/
   - title: "Bio"
     url: /about/
+  - title: "Resume (PDF)"
+    url: /resume/
+  - title: "Hire me"
+    url: /hireme/
