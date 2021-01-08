@@ -62,7 +62,7 @@ author:
   name   : "Ilya Novikov"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Data Scientist with background in computational biology."
-  location: "Greater Houston Area, TX"
+  location: "Houston, TX"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-at"

@@ -23,33 +23,19 @@ Some RNAs, however, are actively functional - just like proteins, they are catal
 can do useful work within the cell. I helped develop a method that scans the evolutionary
 history of these molecules and predicts their most important nucleotides.
 
-[webapp](google.com) ::
+MATLAB
+
 [github](google.com) ::
 [publication](google.com)
 
 ----
 _Predicting novel protein functions via graph learning_
 
+Python, plotly Dash, Heroku
+
 [webapp](google.com) ::
 [github](google.com) ::
 [thesis chapter](google.com)
-
-----
-
-_Predicting global spread of COVID via graph diffusion_
-
-Inspired by recent events. This is an application of the same graph learning approach
-that I described above. Here, instead of proteins, world nations are the nodes, and
-labels are the virus. Given initial site of
-infection, this model predicts where the virus will spread next.
-
-The accuracy isn't that great. Key takeaway for me was that network models that are based
-on movement of people (eg: international travel, tourism)  work a lot better at predicting the spread of the virus than 
-network models based on other information (ex: geographical proximity, amount of bilateral trade, etc).
-
-[webapp](google.com) ::
-[github](google.com) ::
-[blog](google.com)
 
 ----
 _Analysis of 120 million records shows patterns of player behavior in World of Warcraft_
@@ -59,17 +45,12 @@ provides troves of data on their player behavior. I was curious to see if I can 
 patterns in that behavior. So I wrote a pipeline that continuously scans Blizzard's API for data, stores it in the cloud, and
 displays the results as a dashboard.
 
- The subject matter (gaming) is somewhat frivolous; the fun/key part was dealing
- with large amounts of data (~300 million rows). This project taught me RDBMS/SQL + the basics of deploying on AWS.
- 
-[webapp](google.com) :: github [backend](google.com) & [frontend](google.com) :: [blogs](google.com)
+The subject matter (gaming) is somewhat frivolous; the fun/key part was dealing
+with large amounts of data (~300 million rows). This project taught me RDBMS/SQL + the basics of deploying on AWS.
 
-#### Skills
-The projects above were really meant to convey just 2 points:
+Python, SQL, plotly Dash, AWS EC2/RDS/EBS
 
-* I am good at taking open-ended questions, reducing them to testable hypotheses, and delivering end-to-end analysis and tools
-* I have a good technical toolkit: I know Python/SQL, I understand basic statistics&ML, I am good at data viz, I am comfortable with working in the cloud. I try my best to write readable code :)
+[webapp](google.com) :: github [backend](google.com) & [frontend](google.com) :: blogs [1](google.com), [2](www)
 
-So if you think I can help you get some work done, get in touch.
 
 Thank you!
