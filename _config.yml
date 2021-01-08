@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: IlyaIO
+title: Ilya's I/O
 name: Ilya Novikov
 email: ibnovikov@gmail.com
 #description: this is needed for SEC
@@ -62,7 +62,7 @@ author:
   name   : "Ilya Novikov"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Data Scientist with background in computational biology."
-  location: "College Station, TX"
+  location: "Greater Houston Area, TX"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-at"
@@ -72,7 +72,7 @@ author:
       url: "https://github.com/ily123"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://google.com"
+      url: "https://www.linkedin.com/in/ilyabnovikov"
 
 #footer:
 #  links:

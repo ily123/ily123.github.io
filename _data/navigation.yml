@@ -5,7 +5,5 @@ main:
     url: /skills/
   - title: "Bio"
     url: /about/
-  - title: "Resume (PDF)"
-    url: /resume/
   - title: "Hire me"
     url: /hireme/
