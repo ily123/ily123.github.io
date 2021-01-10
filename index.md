@@ -13,13 +13,13 @@ section for a nitty-gritty overview of the things I can do, and the Bio section 
 
 ### Examples of Work
 ----
-- [Comparative sequence analysis of functional RNAs](#anchor1)
+- [Ranking nucleotides in RNA by comparative sequence analysis](#anchor1)
 - [Predicting novel protein functions by graph learning on GO similarity networks](#anchor2)
 - [Analysis of Blizzard API data reveals patterns of player behavior](#anchor3) 
 
 ---
 
-#### Comparative sequence analysis of functional RNAs <a name="anchor1"></a>
+#### Ranking nucleotides in RNA by comparative sequence analysis <a name="anchor1"></a>
 ![rnaet](assets/images/pic_rnaet_border.png)
 
 In all living cells there are molecules called Ribonucleic Acids (RNAs). Most of the them are
@@ -33,9 +33,8 @@ their efforts when studying these molecules.
 The key deliverable of this project was the extensive computational 
 validation I did to prove that the method works as advertised, published in PLOS One.
 
-<span style="color:#ee6802; font-weight:bold">[project links]</span><br/>
-**[github](https://github.com/ily123/rna_et)** ::
-**[publication](https://pubmed.ncbi.nlm.nih.gov/32208421/)**
+[github](https://github.com/ily123/rna_et){: .btn .btn--primary .btn--large}
+[publication](https://pubmed.ncbi.nlm.nih.gov/32208421/){: .btn .btn--primary .btn--large}
 
 ----
 #### Predicting novel protein functions by graph learning on GO similarity networks <a name="anchor2"></a>
@@ -58,10 +57,9 @@ International Society for Computational Biology in Prague (2017), and the web ap
 linked below. Using the tool, you can diffuse labels across a GO similarity 
 network of human kinases.
 
-<span style="color:#ee6802; font-weight:bold">[project links]</span><br/>
-**[webapp](https://ggid.herokuapp.com/)** ::
-**[github](https://github.com/ily123/ggid)** ::
-**[thesis chapter](https://github.com/ily123/thesis)**
+[webapp](https://ggid.herokuapp.com/){: .btn .btn--success .btn--large}
+[github](https://github.com/ily123/ggid){: .btn .btn--primary .btn--large}
+[thesis chapter](https://github.com/ily123/thesis){: .btn .btn--primary .btn--large}
 
 Heroku dyno that runs the app goes to sleep after 30 minutes of inactivity. So it will 
 take 20-30 seconds for the page to respond while the dyno wakes up.
@@ -85,6 +83,8 @@ The fun/instructive part of this project was dealing with large amounts of data
 This project taught me RDBMS/SQL + the basics of deploying on AWS.
 
 
-<span style="color:#ee6802; font-weight:bold">[project links]</span><br/>
-[**webapp**](https://www.benched.me/) :: [**github backend**](https://github.com/ily123/metawatch) & [**frontend**](https://github.com/ily123/metawatch-dash) :: [**reddit blog**](https://www.reddit.com/user/OtherwiseUniversity7/posts/)
+[webapp](https://www.benched.me/){: .btn .btn--success .btn--large}
+[github backend](https://github.com/ily123/metawatch){: .btn .btn--primary .btn--large}
+[github frontend](https://github.com/ily123/metawatch-dash){: .btn .btn--primary .btn--large}
+[reddit blog](https://www.reddit.com/user/OtherwiseUniversity7/posts/){: .btn .btn--primary .btn--large}
 
