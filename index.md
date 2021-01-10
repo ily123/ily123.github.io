@@ -1,29 +1,33 @@
 ---
 layout: single 
-title: Hello there,
 author_profile: true
 ---
-My name is Ilya (eel-ya), and this is my home page. If you are reading this, one of the following is probably true:
+Hello,
 
-* You are one of my friends, and are checking up on me
-* You are a recruiter who found my resume in your pile and decided to follow the link
+My name is Ilya (eel-ya), and this is my home page. For now, the primary purpose of this
+page is to provide evidence of my prior work. 
 
-If it's the latter, you are in luck, because I wrote this webpage for you! Here you 
-will find evidence of my work so you can
-decide whether you want to move forward with a screen/interivew. So, see below three
-of my most impactful projects:
+For a sample of my most impactful projects please see below. Additionally, see the Skills
+section for a nitty-gritty overview of the things I can do, and the Bio section for a quick overview of my, well, bio.
 
 
-#### Examples of Work
+### Examples of Work
 ----
-_Comparative sequence analysis of functional RNAs_
+- [Comparative sequence analysis of functional RNAs](#anchor1)
+- [Predicting novel protein functions by graph learning on GO similarity networks](#anchor2)
+- [Analysis of Blizzard API data reveals patterns of player behavior](#anchor3) 
+
+---
+
+#### Comparative sequence analysis of functional RNAs <a name="anchor1"></a>
+![rnaet](assets/images/pic_rnaet_border.png)
 
 In all living cells there are molecules called Ribonucleic Acids (RNAs). Most of the them are
 inert templates that carry information from DNA to proteins as messenger RNA (see [Central Dogma](https://en.wikipedia.org/wiki/Central_dogma_of_molecular_biology)).
 Some RNAs, however, are actively functional - just like proteins, they are catalytic and
 do useful work within the cell. I helped develop a method, the RNA Evolutionary Trace,
 that scans the evolutionary history of these molecules and predicts their most important
-nucleotides. Ranking nucleotides by their importance allows web-lab researches to narrow
+nucleotides. Ranking nucleotides by their importance allows wet-lab researches to narrow
 their efforts when studying these molecules.
 
 The key deliverable of this project was the extensive computational 
@@ -34,8 +38,8 @@ validation I did to prove that the method works as advertised, published in PLOS
 **[publication](https://pubmed.ncbi.nlm.nih.gov/32208421/)**
 
 ----
-_Predicting novel protein functions by graph learning on GO similarity networks_
-
+#### Predicting novel protein functions by graph learning on GO similarity networks <a name="anchor2"></a>
+![ggid](assets/images/pic_ggid_border.png)
 Proteins don't work in isolation. They work together and form networks.
 In practice, this means that once you've identified a protein associated with some 
 critical process, you can query that protein's network to find additional proteins 
@@ -63,8 +67,8 @@ Heroku dyno that runs the app goes to sleep after 30 minutes of inactivity. So i
 take 20-30 seconds for the page to respond while the dyno wakes up.
 
 ----
-_Analysis of Blizzard API data reveals patterns of player behavior_ 
-
+#### Analysis of Blizzard API data reveals patterns of player behavior <a name="anchor3"></a>
+![ggid](assets/images/pic_bme_border.png)
 Blizzard, the operator of the _World of Warcraft_ MMO,
 provides troves of data on their player behavior. I was curious to see if I can find any
 interesting patterns in that behavior. So I wrote a pipeline that continuously scans Blizzard's API for data,
