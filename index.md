@@ -8,7 +8,7 @@ My name is Ilya (eel-ya) Novikov, and this is my home page. For now, the primary
 page is to provide evidence of my prior work. 
 
 For a sample of my most impactful projects please see below. Additionally, see the [Skills](/skills/)
-section for a nitty-gritty overview of the tools can I use, and the [Bio](/about/) section for a quick
+section for a nitty-gritty overview of the tools can I use, and the [About](/about/) section for a quick
 overview of my history.
 
 # Examples of Work
