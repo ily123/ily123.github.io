@@ -1,10 +1,10 @@
 ---
 permalink: /about/
-title: "Bio"
+title: "About"
 ---
 
 I am an aspiring Data Scientist based in the Greater Houston area. For a formal resume,
-please see this PDF. For an informal overview of my career trajectory, read on.
+please see [this PDF](coming_soon-tm). For an informal overview of my career trajectory, read on.
 
 ---
 
@@ -22,7 +22,7 @@ RNA, and on graph learning via biological networks. Both of these projects are d
 on my home page. During this time I learned the basics of programming, statistics,
 and machine learning, as well as developed a strong foundation for working with ambiguous, real-world data.
 
-It took me a while to wrap up my studies at Baylor, and I graduated with a PhD in 2019.
+It took me a while to wrap up my studies at Baylor, and I graduated in 2019.
 Immediately following that, I did a summer internship as a Data Science Fellow at the 
 Mercury Data Science consultancy in Houston. There I worked with real customer data doing
 A/B testing, customer cohort classification, and churn modeling.
