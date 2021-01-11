@@ -4,15 +4,15 @@ author_profile: true
 ---
 Hello,
 
-My name is Ilya (eel-ya), and this is my home page. For now, the primary purpose of this
+My name is Ilya (eel-ya) Novikov, and this is my home page. For now, the primary purpose of this
 page is to provide evidence of my prior work. 
 
-For a sample of my most impactful projects please see below. Additionally, see the Skills
-section for a nitty-gritty overview of the things I can do, and the Bio section for a quick overview of my, well, bio.
+For a sample of my most impactful projects please see below. Additionally, see the [Skills](/skills/)
+section for a nitty-gritty overview of the tools can I use, and the [Bio](/about/) section for a quick
+overview of my history.
 
-
-### Examples of Work
-----
+# Examples of Work
+---
 - [Ranking nucleotides in RNA by comparative sequence analysis](#anchor1)
 - [Predicting novel protein functions by graph learning on GO similarity networks](#anchor2)
 - [Analysis of Blizzard API data reveals patterns of player behavior](#anchor3) 
