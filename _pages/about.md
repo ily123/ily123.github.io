@@ -12,7 +12,7 @@ As a high schooler, I developed a strong interest in the scientific method and b
 Acting on it, I enrolled at the 
 Texas A&M University in College Station, and pursued a degree in biochemistry.
 Through my undergrad, I tried to apply classroom theory in practice, working
-both as an analytical chemist (spectophotometry) and a biochemistry technician (HPLC).
+both as an analytical chemist (spectrophotometry) and a biochemistry technician (HPLC).
 
 After graduating with a Biochemistry BS in 2010, I went to the Baylor College of Medicine in
 Houston, where I enrolled in the PhD program, also in Biochemistry. As I progressed with
@@ -20,7 +20,7 @@ my studies, I became interested in programming and using computers to solve biol
 I followed this interest and joined a computational biology lab, where I worked on evolutionary biology of
 RNA, and on graph learning via biological networks. Both of these projects are detailed
 on my home page. During this time I learned the basics of programming, statistics,
-and machine learning, as well as developed a strong foundation for working with ambiguous, real-world data.
+and machine learning, as well as developed a taste for working with ambiguous, real-world data.
 
 It took me a while to wrap up my studies at Baylor, and I graduated in 2019.
 Immediately following that, I did a summer internship as a Data Science Fellow at the 
