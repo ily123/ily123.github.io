@@ -4,7 +4,7 @@ title: "About"
 ---
 
 I am an aspiring Data Scientist based in the Greater Houston area. For a formal resume,
-please see [this PDF](coming_soon-tm). For an informal overview of my career trajectory, read on.
+please see [this PDF](https://github.com/ily123/ily123.github.io/blob/master/assets/resume.pdf). For an informal overview of my career trajectory, read on.
 
 ---
 
