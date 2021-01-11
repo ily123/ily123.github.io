@@ -34,5 +34,5 @@ use version control, etc).
 
 ---
 
-I am now looking to continue my professional journey, looking for opportunities
+I am now looking to continue my professional journey, and searching for opportunities
 in the data space.
