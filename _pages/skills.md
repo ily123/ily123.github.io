@@ -9,9 +9,8 @@ familiarity.
 
 | Area/Familiarity | Use daily| Use occasionally| Have experience, but don't actively practice |
 |------------------|---------------------------------------|----------------------------------------|-----------------------------------------------|
-| Programming      | Python, SQL                           | HTML, CSS                              | MATLAB, Ruby                                  |
-| Tools            | bash, git, jupyter, vim                    | Apache airflow, LaTeX                                       |                                               |
+| Programming      | Python, SQL                           | HTML                              | MATLAB                                  |
+| Tools            | bash, git, jupyter, vim                    | airflow, LaTeX                                       |                                               |
 | Cloud            | AWS EC2, RDS, Beanstalk                     | Heroku                                 |                                               |
-| Math/Stats/ML    | hypothesis testing, descriptive stats | regression, clustering, graph learning | NNMF                                          |
+| Math/Stats/ML    | hypothesis testing, frequentist statistics | regression, clustering, graph learning | Collaborative filtering|
 
-Learning/researching next: Docker, Bayesian statistics 
