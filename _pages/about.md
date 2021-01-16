@@ -4,11 +4,11 @@ title: "About"
 ---
 
 I am an aspiring Data Scientist based in the Greater Houston area. For a formal resume,
-please see [this PDF](https://github.com/ily123/ily123.github.io/blob/master/assets/resume.pdf). For an informal overview of my career trajectory, read on.
+please see [this PDF](https://github.com/ily123/ily123.github.io/blob/master/assets/resume.pdf). For an informal overview of my career trajectory, see below.
 
 ---
 
-As a high schooler, I developed a strong interest in the scientific method and basic science.
+I've always had an active interest in the scientific method and basic science.
 Acting on it, I enrolled at the 
 Texas A&M University in College Station, and pursued a degree in biochemistry.
 Through my undergrad, I tried to apply classroom theory in practice, working
@@ -25,7 +25,7 @@ and machine learning, as well as developed a taste for working with ambiguous, r
 It took me a while to wrap up my studies at Baylor, and I graduated in 2019.
 Immediately following that, I did a summer internship as a Data Science Fellow at the 
 Mercury Data Science consultancy in Houston. There I worked with real customer data doing
-A/B testing, customer cohort classification, and churn modeling.
+A/B testing, customer segmentation, and churn modeling.
 
 After my summer at Mercury, I took time off through the 2020 COVID pandemic. During
 the pandemic sabbatical I went into self-study and learned industry-standard languages

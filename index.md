@@ -4,8 +4,8 @@ author_profile: true
 ---
 Hello,
 
-My name is Ilya (eel-ya) Novikov, and this is my home page. For now, the primary purpose of this
-page is to provide evidence of my prior work. 
+My name is Ilya (eel-ya) Novikov, and I am a data scientist based in the Houston area.
+This is my home page. 
 
 For a sample of my most impactful projects please see below. Additionally, see the [Skills](/skills/)
 section for a nitty-gritty overview of the tools can I use, and the [About](/about/) section for a quick
@@ -48,7 +48,7 @@ the candidate list of theraupeutic targets, and arrive at a cure faster.
 I developed a new approach for constructing protein networks using data from the [Gene Ontology](http://geneontology.org/)
 database. Gene Ontology classifies proteins with functional labels, and these labels
 can be used to calcualte similarity between any pair of proteins. The similarity scores
-can be then be converted into a graph/network where most similar proteins are connected
+can then be converted into a graph/network where most similar proteins are connected
 by edges. Finally, the graph itself can then be used to find clusters of related
 proteins using community detection or information diffusion.
 
@@ -80,7 +80,6 @@ WoWHead, the game's largest news site, did a series of articles using the dashbo
 
 The fun/instructive part of this project was dealing with large amounts of data
 (~150 million rows and growing), as well as building infrastructure that runs without human supervision.
-This project taught me RDBMS/SQL + the basics of deploying on AWS.
 
 
 [webapp](https://www.benched.me/){: .btn .btn--success .btn--large}
