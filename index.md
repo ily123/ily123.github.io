@@ -4,11 +4,11 @@ author_profile: true
 ---
 Hello,
 
-My name is Ilya (eel-ya) Novikov, and I am a data scientist based in the Houston area.
+My name is Ilya Novikov, and I am a data scientist based in the Houston area.
 This is my home page. 
 
 For a sample of my most impactful projects please see below. Additionally, see the [Skills](/skills/)
-section for a nitty-gritty overview of the tools can I use, and the [About](/about/) section for a quick
+section for a nitty-gritty overview of the tools I can use, and the [About](/about/) section for a quick
 overview of my history.
 
 # Examples of Work
