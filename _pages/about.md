@@ -4,7 +4,7 @@ title: "About"
 ---
 
 For the formal resume,
-please see [this PDF](https://github.com/ily123/ily123.github.io/blob/master/assets/resume.pdf). For an informal overview of my career trajectory, see below.
+please see [this PDF](https://github.com/ily123/ily123.github.io/blob/master/assets/resume.pdf). For an informal overview, read below.
 
 ---
 
